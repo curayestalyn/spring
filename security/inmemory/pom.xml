@@ -8,12 +8,12 @@
 		<version>3.0.0</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.memory</groupId>
-	<artifactId>in-memory</artifactId>
+	<groupId>com.inmemory</groupId>
+	<artifactId>inmemory</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
-	<name>in-memory</name>
-	<description>in-memory</description>
+	<name>inmemory</name>
+	<description>Security inmemory</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
